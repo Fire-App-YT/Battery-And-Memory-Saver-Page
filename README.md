@@ -7,4 +7,4 @@
 
 ## Web Version
 
-(Demo)[]
+(Demo)[https://fire-app-yt.github.io/Battery-And-Memory-Saver-Page/]
