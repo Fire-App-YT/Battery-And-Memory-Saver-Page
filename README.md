@@ -7,4 +7,10 @@
 
 ## Web Version
 
-(Demo)[https://fire-app-yt.github.io/Battery-And-Memory-Saver-Page/]
+[Demo](https://fire-app-yt.github.io/Battery-And-Memory-Saver-Page/)
+
+## App Version
+
+[Download]()
+
+Or Download On [Github]()
