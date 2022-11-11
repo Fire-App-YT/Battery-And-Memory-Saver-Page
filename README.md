@@ -11,8 +11,6 @@
 
 ## App Version
 
-[Download x64 V1.0.0](https://github.com/Fire-App-YT/Battery-And-Memory-Saver-Page/releases/download/V1.0.0/fire-battery-saver.Setup.x64.msi)
-
-[Download x84 V1.0.0](https://github.com/Fire-App-YT/Battery-And-Memory-Saver-Page/releases/download/V1.0.0/fire-battery-saver.Setup.x86.msi)
+[Download x64 V1.0.0](https://github.com/Fire-App-YT/Battery-And-Memory-Saver-Page/releases/download/V1.0.0/fire-battery-saver.Setup.x64.exe)
 
 Or Download On [Github](https://github.com/Fire-App-YT/Battery-And-Memory-Saver-Page/releases/latest)
