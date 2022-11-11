@@ -1,7 +1,7 @@
 {
   "name": "fire-battery-saver",
   "version": "1.0.0",
-  "description": "a beautiful electron template",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
